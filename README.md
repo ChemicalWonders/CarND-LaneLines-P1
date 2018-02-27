@@ -61,9 +61,11 @@ Finally, I would take the points set already for `y`, to find `x` by plugging it
 This results in a final picture looking something like this:
 ![final image][image5]
 
-I later apply this function to videos, and it comes out somewhat nice.
+I later apply this function to videos, and it comes out somewhat nice. 
 
-![Solid White Lines Video on YouTube](https://www.youtube.com/watch?v=4lZxe8treYE)
+Click on the picture below to see the YouTube video.
+
+[![Solid White Lines Video on YouTube][image5]](https://www.youtube.com/watch?v=4lZxe8treYE)
 
 ### 2. Identify potential shortcomings with your current pipeline
 
