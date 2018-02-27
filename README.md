@@ -63,7 +63,7 @@ This results in a final picture looking something like this:
 
 I later apply this function to videos, and it comes out somewhat nice.
 
-![Solid White Lines Video on YouTube](https://youtu.be/4lZxe8treYE)
+![Solid White Lines Video on YouTube](https://www.youtube.com/watch?v=4lZxe8treYE)
 
 ### 2. Identify potential shortcomings with your current pipeline
 
